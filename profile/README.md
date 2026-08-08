@@ -29,3 +29,15 @@ Pull requests run deterministic harness checks. Emulators, desktop matrices, liv
 
 GitHub owns code and delivery evidence; Linear owns planning and dependencies. The linked organization Project provides the cross-repository execution view.
 <!-- org-project-routing:end -->
+
+
+<!-- ore-org-baseline:begin -->
+## Planning and governance
+
+- Canonical Linear project: https://linear.app/denman/project/githubcomhypesiege-test-0a9c57b67742
+- Organization defaults: https://github.com/hypesiege-test/.github
+- Canonical agent policy: https://github.com/hypesiege-test/.github/blob/main/agents.md
+- Security policy: https://github.com/hypesiege-test/.github/security/policy
+
+Repositories in this organization use semantic conflict resolution with 3–10 relevant prior commits when useful, full cross-repository context, pull-request delivery, and a hard automated-agent denylist for destructive or history-rewriting operations.
+<!-- ore-org-baseline:end -->
